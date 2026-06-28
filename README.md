@@ -9,6 +9,7 @@ important leetcode problems
 | [0051-n-queens](https://github.com/aryanxwork/leetcode/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aryanxwork/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aryanxwork/leetcode/tree/master/0283-move-zeroes) |
 | [0860-lemonade-change](https://github.com/aryanxwork/leetcode/tree/master/0860-lemonade-change) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryanxwork/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Greedy
@@ -20,6 +21,7 @@ important leetcode problems
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aryanxwork/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aryanxwork/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
