@@ -12,6 +12,7 @@ important leetcode problems
 | [0189-rotate-array](https://github.com/aryanxwork/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryanxwork/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/aryanxwork/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/aryanxwork/leetcode/tree/master/0860-lemonade-change) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryanxwork/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Greedy
