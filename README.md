@@ -20,4 +20,16 @@ important leetcode problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanxwork/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanxwork/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanxwork/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
