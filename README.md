@@ -29,6 +29,7 @@ important leetcode problems
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aryanxwork/leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/aryanxwork/leetcode/tree/master/0052-n-queens-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanxwork/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
