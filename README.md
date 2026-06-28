@@ -32,4 +32,8 @@ important leetcode problems
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanxwork/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/aryanxwork/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
