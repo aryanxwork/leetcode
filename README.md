@@ -8,6 +8,7 @@ important leetcode problems
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/aryanxwork/leetcode/tree/master/0051-n-queens) |
+| [0136-single-number](https://github.com/aryanxwork/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aryanxwork/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ important leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aryanxwork/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanxwork/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
