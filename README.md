@@ -6,6 +6,7 @@ important leetcode problems
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/aryanxwork/leetcode/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0860-lemonade-change](https://github.com/aryanxwork/leetcode/tree/master/0860-lemonade-change) |
 ## Greedy
@@ -27,6 +28,7 @@ important leetcode problems
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/aryanxwork/leetcode/tree/master/0051-n-queens) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanxwork/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
