@@ -10,6 +10,7 @@ important leetcode problems
 | [0051-n-queens](https://github.com/aryanxwork/leetcode/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aryanxwork/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryanxwork/leetcode/tree/master/0283-move-zeroes) |
 | [0860-lemonade-change](https://github.com/aryanxwork/leetcode/tree/master/0860-lemonade-change) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryanxwork/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -28,6 +29,7 @@ important leetcode problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -41,6 +43,7 @@ important leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanxwork/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
@@ -48,6 +51,7 @@ important leetcode problems
 | [0007-reverse-integer](https://github.com/aryanxwork/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aryanxwork/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/aryanxwork/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -60,4 +64,12 @@ important leetcode problems
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryanxwork/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
