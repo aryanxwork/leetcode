@@ -16,6 +16,7 @@ important leetcode problems
 | [0485-max-consecutive-ones](https://github.com/aryanxwork/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/aryanxwork/leetcode/tree/master/0860-lemonade-change) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryanxwork/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1929-concatenation-of-array](https://github.com/aryanxwork/leetcode/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -75,4 +76,8 @@ important leetcode problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/aryanxwork/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
