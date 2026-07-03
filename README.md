@@ -17,6 +17,7 @@ important leetcode problems
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryanxwork/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aryanxwork/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-lemonade-change](https://github.com/aryanxwork/leetcode/tree/master/0860-lemonade-change) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryanxwork/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/aryanxwork/leetcode/tree/master/1929-concatenation-of-array) |
@@ -37,6 +38,7 @@ important leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanxwork/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## String
 |  |
 | ------- |
