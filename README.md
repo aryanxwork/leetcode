@@ -10,6 +10,7 @@ important leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/aryanxwork/leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/aryanxwork/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/aryanxwork/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/aryanxwork/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -24,6 +25,7 @@ important leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aryanxwork/leetcode/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/aryanxwork/leetcode/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
@@ -94,6 +96,7 @@ important leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aryanxwork/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0064-minimum-path-sum) |
 ## Matrix
 |  |
