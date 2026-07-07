@@ -22,6 +22,7 @@ important leetcode problems
 | [0860-lemonade-change](https://github.com/aryanxwork/leetcode/tree/master/0860-lemonade-change) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryanxwork/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/aryanxwork/leetcode/tree/master/1929-concatenation-of-array) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/aryanxwork/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Greedy
 |  |
 | ------- |
@@ -98,8 +99,13 @@ important leetcode problems
 | ------- |
 | [0055-jump-game](https://github.com/aryanxwork/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0064-minimum-path-sum) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/aryanxwork/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0064-minimum-path-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/aryanxwork/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 <!---LeetCode Topics End-->
