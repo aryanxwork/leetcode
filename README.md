@@ -15,6 +15,7 @@ important leetcode problems
 | [0136-single-number](https://github.com/aryanxwork/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aryanxwork/leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/aryanxwork/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryanxwork/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aryanxwork/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -81,10 +82,12 @@ important leetcode problems
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/aryanxwork/leetcode/tree/master/0041-first-missing-positive) |
+| [0229-majority-element-ii](https://github.com/aryanxwork/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/aryanxwork/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -108,4 +111,8 @@ important leetcode problems
 |  |
 | ------- |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/aryanxwork/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/aryanxwork/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
