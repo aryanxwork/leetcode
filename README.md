@@ -9,6 +9,7 @@ important leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanxwork/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/aryanxwork/leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/aryanxwork/leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/aryanxwork/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/aryanxwork/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0064-minimum-path-sum) |
@@ -27,6 +28,7 @@ important leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aryanxwork/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryanxwork/leetcode/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/aryanxwork/leetcode/tree/master/0860-lemonade-change) |
 ## Two Pointers
@@ -100,6 +102,7 @@ important leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aryanxwork/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryanxwork/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0064-minimum-path-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/aryanxwork/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
