@@ -11,6 +11,7 @@ important leetcode problems
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/aryanxwork/leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/aryanxwork/leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/aryanxwork/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aryanxwork/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/aryanxwork/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0064-minimum-path-sum) |
@@ -56,6 +57,7 @@ important leetcode problems
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/aryanxwork/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aryanxwork/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/aryanxwork/leetcode/tree/master/0052-n-queens-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanxwork/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
