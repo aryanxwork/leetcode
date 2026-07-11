@@ -39,6 +39,7 @@ important leetcode problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aryanxwork/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aryanxwork/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aryanxwork/leetcode/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@ important leetcode problems
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aryanxwork/leetcode/tree/master/0125-valid-palindrome) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanxwork/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
