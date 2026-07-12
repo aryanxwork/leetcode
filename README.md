@@ -113,6 +113,7 @@ important leetcode problems
 | [0045-jump-game-ii](https://github.com/aryanxwork/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryanxwork/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0064-minimum-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/aryanxwork/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Matrix
 |  |
@@ -126,4 +127,16 @@ important leetcode problems
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aryanxwork/leetcode/tree/master/0229-majority-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
