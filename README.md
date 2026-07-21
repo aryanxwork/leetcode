@@ -69,6 +69,7 @@ important leetcode problems
 | [0136-single-number](https://github.com/aryanxwork/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/aryanxwork/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/aryanxwork/leetcode/tree/master/0342-power-of-four) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanxwork/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
@@ -78,6 +79,7 @@ important leetcode problems
 | [0189-rotate-array](https://github.com/aryanxwork/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aryanxwork/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/aryanxwork/leetcode/tree/master/0342-power-of-four) |
 ## Union-Find
 |  |
 | ------- |
@@ -161,4 +163,5 @@ important leetcode problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aryanxwork/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/aryanxwork/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
