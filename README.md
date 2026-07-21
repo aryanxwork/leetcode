@@ -67,6 +67,7 @@ important leetcode problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aryanxwork/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/aryanxwork/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aryanxwork/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
@@ -75,6 +76,7 @@ important leetcode problems
 | [0007-reverse-integer](https://github.com/aryanxwork/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aryanxwork/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/aryanxwork/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/aryanxwork/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
@@ -155,4 +157,8 @@ important leetcode problems
 | [0100-same-tree](https://github.com/aryanxwork/leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryanxwork/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryanxwork/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aryanxwork/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
