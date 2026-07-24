@@ -80,6 +80,7 @@ important leetcode problems
 | [0231-power-of-two](https://github.com/aryanxwork/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aryanxwork/leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/aryanxwork/leetcode/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -120,6 +121,7 @@ important leetcode problems
 | [0055-jump-game](https://github.com/aryanxwork/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/aryanxwork/leetcode/tree/master/0509-fibonacci-number) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/aryanxwork/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Matrix
 |  |
@@ -164,4 +166,9 @@ important leetcode problems
 | ------- |
 | [0231-power-of-two](https://github.com/aryanxwork/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/aryanxwork/leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/aryanxwork/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aryanxwork/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
