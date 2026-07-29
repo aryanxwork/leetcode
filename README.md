@@ -15,6 +15,7 @@ important leetcode problems
 | [0051-n-queens](https://github.com/aryanxwork/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/aryanxwork/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/aryanxwork/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/aryanxwork/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/aryanxwork/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -49,6 +50,7 @@ important leetcode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanxwork/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/aryanxwork/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -130,6 +132,7 @@ important leetcode problems
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/aryanxwork/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
