@@ -23,6 +23,7 @@ important leetcode problems
 | [0229-majority-element-ii](https://github.com/aryanxwork/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryanxwork/leetcode/tree/master/0283-move-zeroes) |
+| [0475-heaters](https://github.com/aryanxwork/leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/aryanxwork/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanxwork/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -45,6 +46,7 @@ important leetcode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aryanxwork/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aryanxwork/leetcode/tree/master/0283-move-zeroes) |
+| [0475-heaters](https://github.com/aryanxwork/leetcode/tree/master/0475-heaters) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@ important leetcode problems
 | [0074-search-a-2d-matrix](https://github.com/aryanxwork/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
+| [0475-heaters](https://github.com/aryanxwork/leetcode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## String
 |  |
@@ -109,6 +112,7 @@ important leetcode problems
 | ------- |
 | [0229-majority-element-ii](https://github.com/aryanxwork/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
+| [0475-heaters](https://github.com/aryanxwork/leetcode/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanxwork/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryanxwork/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
