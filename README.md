@@ -31,6 +31,7 @@ important leetcode problems
 | [1584-min-cost-to-connect-all-points](https://github.com/aryanxwork/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/aryanxwork/leetcode/tree/master/1929-concatenation-of-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/aryanxwork/leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [3731-find-missing-elements](https://github.com/aryanxwork/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +108,7 @@ important leetcode problems
 | [0229-majority-element-ii](https://github.com/aryanxwork/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryanxwork/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3731-find-missing-elements](https://github.com/aryanxwork/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ important leetcode problems
 | [0475-heaters](https://github.com/aryanxwork/leetcode/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanxwork/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryanxwork/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3731-find-missing-elements](https://github.com/aryanxwork/leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
