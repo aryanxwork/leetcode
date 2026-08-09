@@ -55,6 +55,7 @@ important leetcode problems
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/aryanxwork/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanxwork/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/aryanxwork/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [0475-heaters](https://github.com/aryanxwork/leetcode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryanxwork/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -74,6 +75,7 @@ important leetcode problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aryanxwork/leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/aryanxwork/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/aryanxwork/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aryanxwork/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aryanxwork/leetcode/tree/master/0342-power-of-four) |
@@ -156,6 +158,7 @@ important leetcode problems
 | [0100-same-tree](https://github.com/aryanxwork/leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryanxwork/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/aryanxwork/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryanxwork/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aryanxwork/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aryanxwork/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -175,6 +178,7 @@ important leetcode problems
 | [0100-same-tree](https://github.com/aryanxwork/leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryanxwork/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryanxwork/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/aryanxwork/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryanxwork/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aryanxwork/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aryanxwork/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
